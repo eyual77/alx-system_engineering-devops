@@ -1,0 +1,2 @@
+eachh script is priting 
+
